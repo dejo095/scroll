@@ -1,0 +1,13 @@
+.box {
+    height: 500vh;
+    background-color: blue;
+  }
+  
+  .info {
+    position: fixed;
+    top: 10px;
+    left: 10px;
+     color: white;
+    font-size: 3em;  
+  }
+  
